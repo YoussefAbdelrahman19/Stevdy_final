@@ -1,0 +1,40 @@
+.navbar-expand-lg {
+  margin-right: 10vw;
+  margin-left: 10vw;
+}
+
+.elem1,
+.elem2,
+.elem3,
+.elem4,
+.elem5 {
+  font-family: "poppins";
+  font-size: 17px !important;
+  font-weight: 600 !important;
+  color: #ffffff !important;
+}
+
+.about-us-button {
+  background: rgba(124, 28, 128, 0.66);
+  background: linear-gradient(
+    -90deg,
+    rgba(124, 28, 128, 0.66) 0%,
+    #ff6057 100%
+  );
+  font-family: "poppins";
+  font-size: 16px;
+  font-weight: 600;
+
+  color: #ffffff;
+}
+
+div .d-flex {
+  margin-left: 5vw;
+}
+
+@media (max-width: 992px) {
+  #about-us-nav {
+    margin-left: -4vw !important;
+    background: #ff6057;
+  }
+}

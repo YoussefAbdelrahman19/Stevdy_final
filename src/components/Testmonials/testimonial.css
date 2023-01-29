@@ -1,0 +1,15 @@
+.about-us-button {
+  background: rgba(124, 28, 128, 0.66);
+  background: linear-gradient(
+    -90deg,
+    rgba(124, 28, 128, 0.66) 0%,
+    #ff6057 100%
+  );
+  font-size: 16px;
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  color: #ffffff !important;
+}
+h1.heading {
+  font-size: 38px;
+}

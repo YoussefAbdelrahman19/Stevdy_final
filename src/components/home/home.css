@@ -1,0 +1,39 @@
+.home-page {
+  background-image: url("/src/assets/images/Sans-titre-1.png");
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-size: 1470px 700px;
+}
+
+.home-page .about-us-button-home {
+  font-size: 17px !important;
+  font-weight: 500 !important;
+  color: #ff6057;
+  border-radius: 15px;
+  background: #ffffff;
+}
+
+div .section-1 {
+  color: #ffffff;
+  margin-top: 50px;
+  padding-left: 13vw;
+}
+p.advanced-platform {
+  font-size: 24px;
+  font-weight: 400;
+}
+h1.take-team {
+  font-size: 50px;
+  font-weight: bold;
+  line-height: 50px;
+}
+.home-page div.lorem {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ffffff;
+}
+.about-us-button-home:hover {
+  background-color: #fff !important;
+  color: #ff6057 !important;
+}
